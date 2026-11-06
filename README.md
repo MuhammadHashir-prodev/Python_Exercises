@@ -1,6 +1,6 @@
 # Python_Exercises
 
-Welcome to **Python_Exercises**, a collection of Python programming exercises and mini-projects maintained by [MuhammadHashir-prodev](https://github.com/MuhammadHashir-prodev).
+Welcome to **Python_Exercises**, a collection of Python programming exercises and mini-projects maintained by [me](https://github.com/MuhammadHashir-prodev).
 
 ## 📌 Introduction
 
