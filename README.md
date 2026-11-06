@@ -35,9 +35,9 @@ The repository is organised into separate files and folders to keep exercises ea
 ```text
 Python_Exercises/
 │
-├── 1_Age_Eligibility_Checker.py
-├── 2_Even_or_Odd_Number_Checker.py
-├── 3_Positive,_Negative,_or_Zero_Detector.py
+├── 01_Age_Eligibility_Checker.py
+├── 02_Even_or_Odd_Number_Checker.py
+├── 03_Positive,_Negative,_or_Zero_Detector.py
 ├── ...
 │
 └── README.md
@@ -64,10 +64,11 @@ To explore and run the exercises locally:
 3. Run any Python exercise:
 
    ```bash
-   6_Simple_Calculator.py
+   06_Simple_Calculator.py
    ```
 
-!!Make sure Python is installed on your system before running the programs.!!
+
+Make sure Python is installed on your system before running the programs.
 
 ## 📈 Learning Progress
 
