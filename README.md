@@ -1,27 +1,51 @@
 # Python_Exercises
 
-Welcome to **Python_Exercises**, a collection of Python programming exercises and mini-projects maintained by [me](https://github.com/MuhammadHashir-prodev).
+A collection of Python programming exercises and mini-projects focused on developing problem-solving abilities, strengthening programming fundamentals, and building practical coding skills.
 
-## 📌 Introduction
+## 📌 About
 
-This repository contains a growing collection of Python programming exercises designed to strengthen problem-solving abilities, programming logic, and practical coding skills.
+Welcome to **Python_Exercises**!
 
-The exercises cover a range of topics, from fundamental Python concepts and control flow to data structures, functions, object-oriented programming, and practical mini-projects.
+This repository contains a growing collection of Python programming exercises designed to practise concepts, develop logical thinking, and improve programming proficiency through hands-on implementation.
 
-## 🎯 Purpose
+The exercises cover a range of topics, from fundamental Python syntax and control flow to data structures, functions, Object-Oriented Programming, and practical mini-projects.
 
-The primary goal of this repository is to provide a hands-on learning environment for developing Python programming skills.
+Each exercise provides an opportunity to apply programming concepts, experiment with different approaches, and gradually tackle more challenging problems.
+
+## 🎯 Objectives
+
+The primary goal of this repository is to develop strong Python programming and problem-solving skills through consistent practice.
 
 Through these exercises, I aim to:
 
-- Develop strong programming logic and problem-solving skills.
+- Strengthen logical thinking and problem-solving abilities.
 - Understand and apply fundamental Python concepts.
 - Practise conditional statements, loops, functions, and data structures.
+- Develop a solid understanding of Object-Oriented Programming (OOP).
 - Write clean, readable, and maintainable code.
 - Improve code organisation and modular programming practices.
-- Gradually progress from beginner-level exercises to more complex projects.
+- Progress from basic programming exercises to more complex projects.
 
-## 🛠️ Technologies
+## 📚 Topics Covered
+
+The repository explores various Python programming concepts, including:
+
+- Python Fundamentals
+- Variables, Data Types, and Operators
+- Conditional Statements
+- Loops and Iteration
+- Strings and String Manipulation
+- Lists, Tuples, Sets, and Dictionaries
+- Functions and Modules
+- Object-Oriented Programming (OOP)
+- Exception Handling
+- File Handling
+- Problem-Solving Exercises
+- Practical Mini-Projects
+
+*Topics will expand as I explore more advanced Python concepts.*
+
+## 🛠️ Technologies & Tools
 
 - **Programming Language:** Python
 - **Code Editor:** Visual Studio Code
@@ -30,7 +54,7 @@ Through these exercises, I aim to:
 
 ## 📁 Repository Structure
 
-The repository is organised into separate files and folders to keep exercises easy to navigate and maintain.
+Exercises are maintained in separate Python files, with descriptive filenames to make them easier to identify and navigate.
 
 ```text
 Python_Exercises/
@@ -43,46 +67,71 @@ Python_Exercises/
 └── README.md
 ```
 
-*The structure may evolve as more exercises and projects are added.*
+The repository structure may evolve as more exercises and mini-projects are added.
 
 ## 🚀 Getting Started
 
-To explore and run the exercises locally:
+You can clone this repository and run the exercises on your local machine.
 
-1. Clone this repository:
+### Prerequisites
 
-   ```bash
-   git clone https://github.com/MuhammadHashir-prodev/Python_Exercises.git
-   ```
+- Python installed on your system.
+- Git installed on your system (for cloning the repository).
 
-2. Navigate to the repository directory:
+### Installation
 
-   ```bash
-   cd Python_Exercises
-   ```
+**1. Clone the repository:**
 
-3. Run any Python exercise:
+```bash
+git clone https://github.com/MuhammadHashir-prodev/Python_Exercises.git
+```
 
-   ```bash
-   06_Simple_Calculator.py
-   ```
+**2. Navigate to the repository directory:**
 
+```bash
+cd Python_Exercises
+```
 
-Make sure Python is installed on your system before running the programs.
+**3. Run a Python exercise:**
+
+```bash
+python 06_Simple_Calculator.py
+```
+
+On Windows, you can also use:
+
+```bash
+py 06_Simple_Calculator.py
+```
+
+Replace the filename with the exercise you want to execute.
 
 ## 📈 Learning Progress
 
-This repository represents my ongoing journey towards becoming a better Python programmer.
+This repository reflects my ongoing journey towards becoming a more proficient Python programmer.
 
-I will continue adding exercises, improving existing solutions, and exploring new Python concepts as I progress.
+I continuously work on:
 
-## 🤝 Contributions
+- Adding new programming exercises.
+- Improving existing solutions.
+- Exploring new Python concepts and techniques.
+- Experimenting with different approaches to problem-solving.
+- Writing better-organised and maintainable code.
+- Developing practical programming projects.
 
-This is primarily a personal learning repository. However, suggestions, constructive feedback, and improvements are always welcome.
+The focus is not just on completing exercises, but also on understanding the concepts and improving the quality of my solutions.
+
+## 🤝 Contributions & Feedback
+
+This is primarily a personal learning repository. However, constructive feedback, suggestions, and improvements are welcome.
+
+Feel free to explore the exercises and share ideas that could help improve the solutions or code quality.
 
 ## 📄 Licence
 
-This project is intended for educational and learning purposes.
+This repository is intended primarily for educational and learning purposes.
+
+No specific open-source licence is currently specified.
 
 ---
 
